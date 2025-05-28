@@ -1,10 +1,10 @@
 1.HotelManagementindexpage----https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement1.png  
 2.AddReservation---https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement3.png  
-3.ReservationList---https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement4.png
-4.UpdateReservation---https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanafement5.png  
+3.ReservationList---https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement4.png  
+4.UpdateReservation---https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanafement5.png   
 5.UpdatedReservationlist--https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement6.png  
 6.DeleteReservation--https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement7.png  
 7.DeleteReservationList--https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement8.png  
 8.ViewReservationlist--https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement10.png  
-9.GenerateReports--https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement11.png
+9.GenerateReports--https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement11.png  
 10.GenerateReportsList--https://github.com/sharanyar064/hotel_management_system/blob/main/hotel_management_system/hotelmanagement12.png  
